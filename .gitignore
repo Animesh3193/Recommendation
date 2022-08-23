@@ -1,4 +1,2 @@
 BOOK_DATA/.ipynb_checkpoints/Books_Data-checkpoint.ipynb
-ARCHIVE_DATA/books_with_genre_one.csv
-ARCHIVE_DATA/books_with_genre_three.csv
-ARCHIVE_DATA/books_with_genre_two.csv
+ARCHIVE_DATA/*
